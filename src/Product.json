@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "image": "/images/furniture-1.png",
+    "secondImage": "/images/furniture-1.png",
+    "name": "Modern White Bed",
+    "offerPrice": 18990,
+    "price": 22990
+  },
+  {
+    "id": 2,
+    "image": "/images/furniture-2.png",
+    "secondImage": "/images/furniture-2.png",
+    "name": "Luxury Mattress",
+    "offerPrice": 3490,
+    "price": 4990
+  },
+  {
+    "id": 3,
+    "image": "/images/furniture-3.png",
+    "secondImage": "/images/furniture-3.png",
+    "name": "Cane Lounge Chair",
+    "offerPrice": 7999,
+    "price": 9909
+  },
+  {
+    "id": 4,
+    "image": "/images/furniture-4.png",
+    "secondImage": "/images/furniture-4.png",
+    "name": "Retro Leather Armchair",
+    "offerPrice": 7990,
+    "price": 9580
+  },
+  {
+    "id": 5,
+    "image": "/images/furniture-5.png",
+    "secondImage": "/images/furniture-5.png",
+    "name": "Wooden Tripod Lamp",
+    "offerPrice": 1890,
+    "price": 2490
+  },
+  {
+    "id": 6,
+    "image": "/images/furniture-6.png",
+    "secondImage": "/images/furniture-6.png",
+    "name": "White Cushioned Sofa",
+    "offerPrice": 14992,
+    "price": 19900
+  },
+  {
+    "id": 7,
+    "image": "/images/furniture-7.png",
+    "secondImage": "/images/furniture-7.png",
+    "name": "Beige Lounger Sofa",
+    "offerPrice": 5645,
+    "price": 8450
+  },
+  {
+    "id": 8,
+    "image": "/images/furniture-8.png",
+    "secondImage": "/images/furniture-8.png",
+    "name": "Velvet Swivel Chair",
+    "offerPrice": 1238,
+    "price": 1548
+  },
+  {
+    "id": 9,
+    "image": "/images/furniture-9.png",
+    "secondImage": "/images/furniture-9.png",
+    "name": "Tufted Gray Sofa",
+    "offerPrice": 8921,
+    "price": 11990
+  },
+  {
+    "id": 10,
+    "image": "/images/furniture-10.png",
+    "secondImage": "/images/furniture-10.png",
+    "name": "Rattan Accent Chair",
+    "offerPrice": 15247,
+    "price": 18221
+  },
+  {
+    "id": 11,
+    "image": "/images/furniture-11.png",
+    "secondImage": "/images/furniture-11.png",
+    "name": "Glass Dining Table",
+    "offerPrice": 7869,
+    "price": 9784
+  },
+  {
+    "id": 12,
+    "image": "/images/furniture-12.png",
+    "secondImage": "/images/furniture-12.png",
+    "name": "Compact Study Desk",
+    "offerPrice": 3590,
+    "price": 4256
+  },
+  {
+    "id": 13,
+    "image": "/images/furniture-13.png",
+    "secondImage": "/images/furniture-13.png",
+    "name": "Walnut Sleigh Bed",
+    "offerPrice": 19990,
+    "price": 25990
+  },
+  {
+    "id": 14,
+    "image": "/images/furniture-14.png",
+    "secondImage": "/images/furniture-14.png",
+    "name": "Rustic Pine Bed Frame",
+    "offerPrice": 18990,
+    "price": 23990
+  },
+  {
+    "id": 15,
+    "image": "/images/furniture-15.png",
+    "secondImage": "/images/furniture-15.png",
+    "name": "Convertible Sofa Bed",
+    "offerPrice": 21990,
+    "price": 29990
+  },
+  {
+    "id": 16,
+    "image": "/images/furniture-16.png",
+    "secondImage": "/images/furniture-16.png",
+    "name": "Industrial Loft Bed",
+    "offerPrice": 19990,
+    "price": 24990
+  },
+  {
+    "id": 17,
+    "image": "/images/furniture-17.png",
+    "secondImage": "/images/furniture-17.png",
+    "name": "Canopy Queen Bed",
+    "offerPrice": 21990,
+    "price": 27990
+  },
+  {
+    "id": 18,
+    "image": "/images/furniture-18.png",
+    "secondImage": "/images/furniture-18.png",
+    "name": "Scandinavian Platform Bed",
+    "offerPrice": 19990,
+    "price": 24990
+  },
+  {
+    "id": 19,
+    "image": "/images/furniture-19.png",
+    "secondImage": "/images/furniture-19.png",
+    "name": "Low-Profile Storage Bed",
+    "offerPrice": 17990,
+    "price": 22990
+  },
+  {
+    "id": 20,
+    "image": "/images/furniture-20.png",
+    "secondImage": "/images/furniture-20.png",
+    "name": "Drawer Base Bed",
+    "offerPrice": 20990,
+    "price": 26990
+  },
+  {
+    "id": 21,
+    "image": "/images/furniture-21.png",
+    "secondImage": "/images/furniture-21.png",
+    "name": "Wingback Bed Frame",
+    "offerPrice": 19990,
+    "price": 25990
+  },
+  {
+    "id": 22,
+    "image": "/images/furniture-22.png",
+    "secondImage": "/images/furniture-22.png",
+    "name": "Glass-Top Coffee Table",
+    "offerPrice": 4890,
+    "price": 5690
+  },
+  {
+    "id": 23,
+    "image": "/images/furniture-23.png",
+    "secondImage": "/images/furniture-23.png",
+    "name": "Cozy Lounge Chair",
+    "offerPrice": 4590,
+    "price": 5390
+  },
+  {
+    "id": 24,
+    "image": "/images/furniture-24.png",
+    "secondImage": "/images/furniture-24.png",
+    "name": "Ergonomic Task Chair",
+    "offerPrice": 3690,
+    "price": 4490
+  }
+]

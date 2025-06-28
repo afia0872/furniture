@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Transform Your Living Room With Plants and Stylish Furniture",
+    "image": "/images/blog-1.jpeg",
+    "categories": ["furniture", "Interior", "Plants"],
+    "author": "Admin",
+    "date": "April 2, 2025",
+    "description": "Discover how to create a cozy"
+  },
+  {
+    "id": 2,
+    "title": "Interiors",
+    "image": "/images/blog-2.jpg",
+    "categories": ["furniture", "Decor", "Plants"],
+    "author": "Admin",
+    "date": "April 12, 2025",
+    "description": "Elegant living."
+  },
+  {
+    "id": 3,
+    "title": "The Art Of Pairing",
+    "image": "/images/blog-3.jpg",
+    "categories": ["furniture", "Design", "Plants"],
+    "author": "Admin",
+    "date": "April 30, 2025",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "title": "50 Inspiring Ways to Style",
+    "image": "/images/blog-4.jpg",
+    "categories": ["furniture", "Trends", "Plants"],
+    "author": "Admin",
+    "date": "April 6, 2025",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "title": "Eco-Friendly Furniture",
+    "image": "/images/blog-5.jpg",
+    "categories": ["furniture", "Eco-friendly", "Plants"],
+    "author": "Admin",
+    "date": "March 2, 2025",
+    "description": "."
+  },
+  {
+    "id": 6,
+    "title": "Space-Smart Layout for Plants and Living Room Furniture",
+    "image": "/images/blog-6.jpeg",
+    "categories": ["furniture", "Interior", "Plants"],
+    "author": "Admin",
+    "date": "April 2, 2025",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "title": "Build the Ultimate Plant Corner Using Modular Furniture",
+    "image": "/images/blog-7.jpg",
+    "categories": ["furniture", "Shelving", "Plants"],
+    "author": "Admin",
+    "date": "March 24, 2025",
+    "description": "Design a beautiful corner with modular furniture and plants."
+  },
+  {
+    "id": 8,
+    "title": "Minimalist Decor Ideas for Urban Spaces",
+    "image": "/images/blog-8.jpg",
+    "categories": ["interior", "minimalism", "urban"],
+    "author": "Admin",
+    "date": "May 18, 2025",
+    "description": "Discover minimalist furniture setups for compact urban living."
+  },
+  {
+    "id": 9,
+    "title": "Modern Wooden Furniture Trends",
+    "image": "/images/blog-9.jpg",
+    "categories": ["furniture", "woodwork", "trends"],
+    "author": "Admin",
+    "date": "June 5, 2025",
+    "description": "Explore top trending wooden furniture designs for modern homes."
+  },
+  {
+    "id": 10,
+    "title": "Incorporating Plants Into Scandinavian Design",
+    "image": "/images/blog-10.jpg",
+    "categories": ["plants", "scandinavian", "decor"],
+    "author": "Admin",
+    "date": "June 12, 2025",
+    "description": "Learn how to add green touches to your Scandinavian-style home."
+  }
+]
