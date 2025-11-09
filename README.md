@@ -38,7 +38,8 @@ Built with **React**, **Vite**, and **Tailwind CSS**, it delivers a smooth and e
 
 ## 🖼️ Screenshots
 
-Here’s a quick look at the Borcelle Furniture website 👇  
+Here’s a quick look at the Borcelle Furniture website 👇 
+|----------| ----------| ----------| ----------| ----------| ----------| ----------| 
 !(src/assets/2.png) |!(src/assets/3.png) |!(src/assets/4.png) |!(src/assets/6.png) |!(src/assets/7.png) |!(src/assets/8.png) |!(src/assets/9.png) 
 
 ---
