@@ -1,41 +1,56 @@
-# 🛋️ Borcelle Furniture  E-Commerce Website
+# 🛋️ Borcelle Furniture – Modern E-Commerce Experience
 
-A responsive and modern furniture e-commerce website built using **React**, **Vite**, and **Tailwind CSS**.
+![Project Banner](./screenshots/banner.png)
 
----
-
-## 🚀 Features
-
-- Stylish landing page with hero banner
-- Product listing with price and discount
-- Contact form with animation
-- Responsive design for all devices
-- Built with Vite for fast performance
+Welcome to **Borcelle Furniture**, a sleek and responsive e-commerce website designed for a premium furniture brand.  
+Built with **React**, **Vite**, and **Tailwind CSS**, it delivers a smooth and elegant shopping experience with lightning-fast performance ⚡  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Live Demo
 
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-- Lucide Icons
+🪑 **Explore it live:**     [Borcelle Furniture Website](http://localhost:5173/)  
+
 
 ---
 
-## 📁 Project Setup
+## ✨ Features
 
-### Step 1: Clone the Repository
+- 🏠 **Modern Landing Page** – Hero banner with smooth scroll and animations  
+- 🪑 **Product Showcase** – Furniture listings with prices, discounts, and hover effects  
+- 💬 **Animated Contact Form** – Built with **Framer Motion** for fluid interactions  
+- 📱 **Fully Responsive** – Works beautifully on mobile, tablet, and desktop  
+- ⚡ **Fast & Lightweight** – Powered by **Vite** for instant builds and performance  
+- 🎨 **Clean UI Design** – Elegant, minimal, and user-focused interface  
+
+---
+
+## 🧰 Tech Stack
+
+| Category | Technologies |
+|-----------|--------------|
+| Framework | React + Vite |
+| Styling | Tailwind CSS |
+| Animation | Framer Motion |
+| Icons | Lucide React Icons |
+| Tools | Node.js, npm |
+
+---
+
+## 🖼️ Screenshots
+
+Here’s a quick look at the Borcelle Furniture website 👇  
+
+| (./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |(./screenshots/landing.png) |
+
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to run the project locally 👇  
+
+### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/afia0872/furniture.git
 cd furniture-website
-
-
-### Step 2: Install Dependencies
-bash
-npm install
-
- ### Step 3: Run Locally
-bash
-npm run dev
