@@ -1,7 +1,7 @@
 # 🛋️ Borcelle Furniture – Modern E-Commerce Experience
 
 
-  <img src="src/assets/1.png" width="250" />
+  <img src="src/assets/1.png"  />
 
 Welcome to **Borcelle Furniture**, a sleek and responsive e-commerce website designed for a premium furniture brand.  
 Built with **React**, **Vite**, and **Tailwind CSS**, it delivers a smooth and elegant shopping experience with lightning-fast performance ⚡  
